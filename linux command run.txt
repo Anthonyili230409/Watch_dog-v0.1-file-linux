@@ -1,0 +1,4 @@
+how to commands run text.py?
+easy!
+
+python3 text.py <-- look like real commands system linux
