@@ -20,7 +20,7 @@ for command system "Kali linux or Ubuntu or Temux"
 ```
 git clone https://github.com/Anthonyili230409/Watch_dog-v0.1-file-linux.git
 cd Watch_dog-v0.1-file-linux
-python3 DEDTHON-WATCH_DOG-FILE.py
+dedthon.sh
 ```
 
 you now "Watch_dog v0.1" done commands got
