@@ -4,7 +4,8 @@
 
 # Watch_dog v0.1 update (14/02/2026)
 
-- Camphish 
+- Camphish
+- TheFatRat
 
 # install python
 for Watch_dog system python run install python
