@@ -2,7 +2,7 @@
 
 <img src="Watch_dog-linux-foto.png">
 
-# Watch_dog v0.1 update (14/02/2026)
+# Watch_dog v0.1 update (25/08/2026)
 
 - Camphish
 - TheFatRat
